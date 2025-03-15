@@ -36,6 +36,10 @@ Task 6.2: Prepare for Deployment ○ Ensure all dependencies are listed in requi
    
 # Task 7.1: Add User Authentication 
 ○ Implement authentication to restrict access to authorized users only.
+
 2. Task 7.2: Enhance UI/UX ○ Improve the UI with Streamlit components for a better user experience.
-3. Task 7.3: Extend Functionality ○ Add features like saving queries, exporting summaries, or historical data analysis. 
+   
+ Task 7.3: Extend Functionality ○ Add features like saving queries, exporting summaries, or historical data analysis. 
+
+ 
 
