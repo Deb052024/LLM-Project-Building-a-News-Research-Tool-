@@ -2,7 +2,7 @@ from langchain import  LLMChain, PromptTemplate
 from langchain_groq import ChatGroq
 
 # Directly provide the Groq API key (Not recommended for production)
-groq_api_key = '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'  
+groq_api_key = '********************************************************'  
 
 # Define the prompt template
 template = """You are an AI assistant helping an equity research analyst.
