@@ -26,6 +26,21 @@ Task 3.3: Run Streamlit App
 
 ![image](https://github.com/user-attachments/assets/28f2bf36-9ff0-43ae-8fa0-87715a743a80)
 
+![image](https://github.com/user-attachments/assets/0986eeb7-c6ae-4c22-bc50-1c9dbfa036c6)
+
+![image](https://github.com/user-attachments/assets/082eaaec-d268-4b3e-86a6-8fc853fb234b)
+
+![image](https://github.com/user-attachments/assets/de6677dd-ec63-4e66-ad63-483f4a9f9549)
+
+![image](https://github.com/user-attachments/assets/757ed6cf-9d9c-44ed-957c-44c562d3efe3)
+
+
+
+
+
+
+
+
 
 
 
