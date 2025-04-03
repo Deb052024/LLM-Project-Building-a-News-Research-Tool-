@@ -18,13 +18,7 @@ Task 3.2: Implement Basic Streamlit Interface in
 
 Task 3.3: Run Streamlit App 
 
-![image](https://github.com/user-attachments/assets/39edf06c-86cc-4594-8f0d-49e20c2cb3d3)
 
-![image](https://github.com/user-attachments/assets/536b7cc7-3023-4a30-ad7c-4caa8ff00435)
-
-![image](https://github.com/user-attachments/assets/083e6b5c-6a4b-49b2-adf5-7ba3ba4fef7b)
-
-![image](https://github.com/user-attachments/assets/28f2bf36-9ff0-43ae-8fa0-87715a743a80)
 
 ![image](https://github.com/user-attachments/assets/0986eeb7-c6ae-4c22-bc50-1c9dbfa036c6)
 
@@ -33,6 +27,11 @@ Task 3.3: Run Streamlit App
 ![image](https://github.com/user-attachments/assets/de6677dd-ec63-4e66-ad63-483f4a9f9549)
 
 ![image](https://github.com/user-attachments/assets/757ed6cf-9d9c-44ed-957c-44c562d3efe3)
+
+![image](https://github.com/user-attachments/assets/d5cf627c-75df-40ee-9b7d-7565c2ea602f)
+
+![image](https://github.com/user-attachments/assets/21348e58-d3a7-454d-88a1-7f5138e718ec)
+
 
 
 
